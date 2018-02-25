@@ -1,0 +1,1 @@
+cmd_/home/nutepas/e1000e-3.4.0.2/src/e1000e.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-6-common/scripts/module-common.lds --build-id  -o /home/nutepas/e1000e-3.4.0.2/src/e1000e.ko /home/nutepas/e1000e-3.4.0.2/src/e1000e.o /home/nutepas/e1000e-3.4.0.2/src/e1000e.mod.o ;  true
