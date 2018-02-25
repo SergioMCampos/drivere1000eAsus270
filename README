@@ -1,4 +1,4 @@
-## Instructions for installing the driver in Debian
+# Instructions for installing the driver in Debian
 
 ```
 sudo make install
